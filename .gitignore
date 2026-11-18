@@ -1,0 +1,8 @@
+.env
+.venv/
+__pycache__/
+data/
+models/
+*.pdf
+results/server.log
+!results/*.pdf
